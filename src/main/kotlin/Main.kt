@@ -9,6 +9,7 @@ fun main() {
 
     var messageCount = 0
 
+
     val bot = bot {
         token = "6502215684:AAHIclrEuDmDRlffDNnheqFKth_2_B0BcKI"
         dispatch {
